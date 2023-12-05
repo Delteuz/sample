@@ -9,14 +9,8 @@
 
 <body>
 
-    <h2>Another Hello</h2>
-
-
-    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Autem soluta possimus praesentium hic ad laborum assumenda labore perspiciatis accusamus dicta.</p>
-
-
-    <hr>
-
+    <h1>Third Version</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium a magni facere quasi mollitia, rerum totam praesentium laborum modi nulla quisquam? Minus incidunt hic libero tenetur labore voluptates provident minima possimus odit eos. Sed fugit eos ad libero optio illum maxime omnis, velit nostrum eum a similique voluptates veritatis nisi.</p>
 </body>
 
 </html>
